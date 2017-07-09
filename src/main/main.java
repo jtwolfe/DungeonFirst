@@ -17,6 +17,7 @@ public class main {
 
 		System.out.println("cats");
 		System.out.println("dogs");
+		System.out.println(""fish);
 	}
 
 }
