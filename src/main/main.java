@@ -16,6 +16,7 @@ public class main {
 		// TODO Auto-generated method stub
 
 		System.out.println("cats");
+		System.out.println("dogs");
 	}
 
 }
